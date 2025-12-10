@@ -1,6 +1,6 @@
 # Kaun Banega Crorepati - Console Edition
 
-A fully functional console-based implementation of the popular Indian quiz show Kaun Banega Crorepati? (Who Wants to Be a Millionaire?) written in C. Players answer 12 progressively difficult questions to win up to ₹1,000,000 with realistic lifelines and gameplay mechanics.[file:1][file:2]
+A fully functional console-based implementation of the popular Indian quiz show Kaun Banega Crorepati? (Who Wants to Be a Millionaire?) written in C. Players answer 12 progressively difficult questions to win up to ₹1,000,000 with realistic lifelines and gameplay mechanics.
 
 ## Features
 - *12 Questions*: Increasing difficulty and prize money from ₹1,000 to ₹1,000,000.
@@ -32,5 +32,5 @@ A fully functional console-based implementation of the popular Indian quiz show 
 ## Author
 Beniya Devasis
 
-## License
-MIT License - Feel free to use, modify, and distribute.[file:1]
+
+
